@@ -50,10 +50,6 @@ Whether you’re mapping a microservice handshake, teaching asynchronous flows, 
 
 ---
 
-![Editor Overview](https://static.macupdate.com/screenshots/309672/m/sequence-diagram-screenshot.png)
-
----
-
 ![Project Example](https://macsequencediagram.com/__static/15f8e04364be472187e6ad6f1fdb7fae/screenshot-2021-08-17-at-17-44-55.png)
 
 ---
