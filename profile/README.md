@@ -3,7 +3,7 @@
 ![Sequence Diagram Hero](https://guides.visual-paradigm.com/wp-content/uploads/2023/09/sequence-diagram.png)
 
 <div align="center" style="margin:12px 0 18px;">
-  <a href="sequence-diagram.github.io/.github">
+  <a href="http://sequence-diagram.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_GET_SEQUENCE_DIAGRAM_FOR_MAC-indigo?style=for-the-badge&logo=mermaid&logoColor=white" alt="Get Sequence Diagram for Mac">
   </a>
 </div>
@@ -70,7 +70,7 @@ Whether you’re mapping a microservice handshake, teaching asynchronous flows, 
 ## Open macOS Install Guide
 
 <div align="center" style="margin:8px 0 16px;">
-  <a href="sequence-diagram.github.io/.github">
+  <a href="http://sequence-diagram.github.io/.github">
     <img src="https://img.shields.io/badge/📘_OPEN_MACOS_INSTALL_GUIDE-slateblue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Open macOS Install Guide">
   </a>
 </div>
